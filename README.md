@@ -9,7 +9,7 @@ Public dataset downloaded from Kaggle (original link not recorded). Email and ph
 Power BI (data modelling, DAX measures, visuals), Excel (source data)
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshot/dashboard.png)
 
 **Features:** KPI cards (total fees, students enrolled), fees by course, enrollments by month, age-group split, certificate status, and slicers for Year, City and Course.
 
